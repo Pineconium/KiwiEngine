@@ -1,4 +1,6 @@
-# To Do for TheAWE
+## Window Management
+- [x] Basic Window
+- [ ] UI Elements
 
 ## Basic Stuff
 - [ ] Basic HTML rendering. (Headers, paragraphs)
