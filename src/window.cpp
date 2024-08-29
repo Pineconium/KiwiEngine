@@ -16,7 +16,7 @@ int main()
     SDL_Event event;
     SDL_Init(SDL_INIT_VIDEO);
 
-    /* sure this means we can't maximaze or resize the window, but again, prototype code */
+    /* sure this means we can't maximize or resize the window, but again, prototype code */
     SDL_Window* screen = SDL_CreateWindow("Kiwi Browser (PROTOTYPE!)",
             SDL_WINDOWPOS_UNDEFINED,
             SDL_WINDOWPOS_UNDEFINED, 720, 480, 0);
