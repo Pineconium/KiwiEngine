@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -o kiwibrowser window.cpp -lSDL2
+gcc -o kiwibrowser src/window.cpp -lSDL2
